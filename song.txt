@@ -1,4 +1,3 @@
-"hello"
-Privet
+Hello world
 Kak dela
-chto delaew?
+Chto delaew?
